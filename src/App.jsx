@@ -30,7 +30,7 @@ const portfolio = {
   phone: "(+855) 92 627 585",
   linkedin: "https://www.linkedin.com/in/chhan-philip-00a446432",
   github: "https://github.com/filipchhan7-sketch",
-  resume: "/Chhan-Philip-Resume.pdf",
+  resume: "/Chhan_Philip-Resume.pdf",
   summary:
     "I build secure, practical web applications with Java, Spring Boot, Laravel, React, and modern database technologies.",
   profile:
