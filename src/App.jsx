@@ -91,7 +91,7 @@ const portfolio = {
         "Added JWT authentication and role-based access",
         "Implemented search and filtering for records",
       ],
-      github: "https://github.com/filipchhan7-sketch/Plant-Lab-Laboratory",
+      github: "https://github.com/filipchhan7-sketch/Plant_Lap_Labotory.git",
       accent: "lime",
     },
     {
@@ -106,7 +106,7 @@ const portfolio = {
         "Connected Supabase APIs and PostgreSQL data",
         "Integrated Stripe payment flows",
       ],
-      github: "https://github.com/filipchhan7-sketch/royal-elegance",
+      github: "https://github.com/filipchhan7-sketch/Royal_Elegance.git",
       accent: "violet",
     },
     {
@@ -121,7 +121,7 @@ const portfolio = {
         "Added JWT authentication and role-based access",
         "Implemented search and filtering for appointments",
       ],
-      github: "https://github.com/filipchhan7-sketch/Hospital-Appointment-Management",
+      github: "https://github.com/filipchhan7-sketch/Hospital_Appointment_Management.git",
       accent: "violet",
     }
   ],
